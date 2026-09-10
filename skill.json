@@ -1,0 +1,17 @@
+{
+  "name": "genpark-percolator-distributed-snapshot-transactions-skill",
+  "version": "1.0.0",
+  "description": "Google Percolator two-phase distributed snapshot transaction engine featuring primary locks, secondary cell records, and optimistic roll-forward commits.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "percolator",
+    "distributed-transactions",
+    "snapshot-isolation",
+    "primary-locks",
+    "database-engine"
+  ],
+  "dependencies": []
+}
